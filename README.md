@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylanc0429
-- 👀 I’m interested in ... data analyticcs
+- 👀 I’m interested in ... data analytics
 - 🌱 I’m currently learning ... Pyhthon3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dylanc0429@gmail.com
